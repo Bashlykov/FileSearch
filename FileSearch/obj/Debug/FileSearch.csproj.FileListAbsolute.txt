@@ -1,0 +1,23 @@
+C:\Documents and Settings\miro\My Documents\SharpDevelop Projects\FileSearch\FileSearch\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\miro\My Documents\SharpDevelop Projects\FileSearch\FileSearch\obj\Debug\FileSearch.MainForm.resources
+C:\Documents and Settings\miro\My Documents\SharpDevelop Projects\FileSearch\FileSearch\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\miro\My Documents\SharpDevelop Projects\FileSearch\FileSearch\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\miro\My Documents\SharpDevelop Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Documents and Settings\miro\My Documents\SharpDevelop Projects\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Documents and Settings\miro\My Documents\SharpDevelop Projects\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+C:\Documents and Settings\miro\My Documents\SharpDevelop Projects\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
+D:\DEV\works\SharpDevelop\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+D:\DEV\works\SharpDevelop\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+D:\DEV\works\SharpDevelop\FileSearch\FileSearch\obj\Debug\ResolveAssemblyReference.cache
+D:\DEV\works\SharpDevelop\FileSearch\FileSearch\obj\Debug\FileSearch.MainForm.resources
+D:\DEV\works\SharpDevelop\FileSearch\FileSearch\obj\Debug\GenerateResource.read.1.tlog
+D:\DEV\works\SharpDevelop\FileSearch\FileSearch\obj\Debug\GenerateResource.write.1.tlog
+D:\DEV\works\SharpDevelop\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+D:\DEV\works\SharpDevelop\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
+\\psf\Home\Downloads\FileSearch\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+\\psf\Home\Downloads\FileSearch\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+\\psf\Home\Downloads\FileSearch\FileSearch\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\FileSearch\FileSearch\FileSearch\obj\Debug\FileSearch.MainForm.resources
+\\psf\Home\Downloads\FileSearch\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.GenerateResource.Cache
+\\psf\Home\Downloads\FileSearch\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+\\psf\Home\Downloads\FileSearch\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
