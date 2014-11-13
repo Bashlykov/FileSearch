@@ -1,5 +1,8 @@
 FileSearch
 ==========
+Written By Bashlykov Sergey
+Copyright (c) 2014 Bashlykov Sergey
+All rights reserved. 
 
 Windows application for searching files. Written on C#
 
