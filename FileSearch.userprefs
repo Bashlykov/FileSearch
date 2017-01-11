@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="FileSearch/FileSearch.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileSearch/MainForm.cs">
+    <Files>
+      <File FileName="FileSearch/MainForm.cs" Line="18" Column="21" />
+      <File FileName="FileSearch/MainForm.Designer.cs" Line="1" Column="1" />
+      <File FileName="FileSearch/MainForm.resx" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
