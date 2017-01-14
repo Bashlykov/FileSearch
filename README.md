@@ -1,11 +1,3 @@
-FileSearch
-==========
-Written By Bashlykov Sergey
-Copyright (c) 2014 Bashlykov Sergey
-All rights reserved. 
-
-Windows application for searching files. Written on C#
-
 Приложение с графическим интерфейсом, которое осуществляет поиск 
 файлов по расширению, а так же указанного текста в этих файлах в указанной директории
 и поддиректориях. Все найденные файлы в процессе поиска отображаются в дереве директорий.
