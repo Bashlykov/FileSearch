@@ -1,7 +1,8 @@
-Приложение с графическим интерфейсом, которое осуществляет поиск 
-файлов по расширению, а так же указанного текста в этих файлах в указанной директории
-и поддиректориях. Все найденные файлы в процессе поиска отображаются в дереве директорий.
-Во время поиска выводится информация о том, какой файл обрабатывается, 
-сколько всего обработано файлов и сколько прошло времени на данный момент. 
-Возможность остановить поиск в любой момент.
-Программа сохраняет предыдущие критерии поиска.
+# FileSearch
+- An application that searches for files:
+   1. for their expansion
+   2. according to the text
+- All found files are displayed in the directory tree during the search.
+- During the search, information is displayed about which file is being processed, how many files are processed, and how much time has passed at the moment.
+- Ability to stop the search at any time.
+- The application saves the previous search criteria.
